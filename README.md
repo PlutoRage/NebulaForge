@@ -49,14 +49,7 @@ NebulaForge pulls live weather data from OpenWeatherMap, stores it in Amazon S3,
 ---
 
 ## Project Structure
-NebulaForge/ 
-├── data/ # Local data output 
-├── scripts/ # Python scripts 
-│ └── weather_pull.py 
-├── terraform/ # (optional future deployment) 
-├── venv/ # Virtual environment 
-├── .env # API keys and secrets 
-└── README.md
+NebulaForge/ ├── data/ # Local data output ├── scripts/ # Python scripts │ └── weather_pull.py ├── terraform/ # (optional future deployment) ├── venv/ # Virtual environment ├── .env # API keys and secrets └── README.md # Project documentation
 
 ---
 
