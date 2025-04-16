@@ -61,7 +61,7 @@ NebulaForge/
 └── README.md           # Project documentation
 ```
 
----
+
 
 ## What I Learned
 
@@ -69,6 +69,7 @@ NebulaForge/
 - How to structure S3 buckets and Glue crawlers for Athena
 - Troubleshooting quote parsing, encoding, and line breaks in real-world data
 - Building a reusable, serverless data pipeline with minimal infrastructure
+
 
 ---
 
